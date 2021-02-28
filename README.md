@@ -3,3 +3,4 @@
 # Stacks
 # Queues
 # Graphs
+# Weighted Graphs
